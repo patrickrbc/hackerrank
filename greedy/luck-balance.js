@@ -1,5 +1,4 @@
 
-
 const assert = require('assert')
 
 function luckBalance (k, contests) {
